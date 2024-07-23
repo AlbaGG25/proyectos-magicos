@@ -1,9 +1,7 @@
 
 # Proyectos mágicos
 
-:construction:![Badge en Desarollo](https://img.shields.io/badge/STATUS-IN%20PROGRESS-green)
-
-Se trata de una web que nos permite crear una tarjeta para captar la esencia de nuestros proyectos personales. En la página web podemos introducir los datos del proyecto y obtener una vista maquetada con esta información, y así tener guardados nuestros proyectos de forma fácil y sencilla.
+Esta web nos permite crear una tarjeta para captar la esencia de nuestros proyectos personales. En la página web podemos introducir los datos del proyecto y obtener una vista maquetada con esta información, y así tener guardados nuestros proyectos de forma fácil y sencilla.
 
 ## :sparkles: Diseño del proyecto
 
