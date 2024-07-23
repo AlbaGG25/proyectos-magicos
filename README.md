@@ -1,13 +1,13 @@
 
-# Proyectos molones 
+# Proyectos mágicos
 
 :construction:![Badge en Desarollo](https://img.shields.io/badge/STATUS-IN%20PROGRESS-green)
 
-Se trata de una web que nos permite crear una tarjeta para hablar sobre proyectos personales. En la página web podemos introducir los datos del proyecto y obtener una vista maquetada con esta información, y así tener guardados nuestros proyectos de forma fácil y sencilla.
+Se trata de una web que nos permite crear una tarjeta para captar la esencia de nuestros proyectos personales. En la página web podemos introducir los datos del proyecto y obtener una vista maquetada con esta información, y así tener guardados nuestros proyectos de forma fácil y sencilla.
 
 ## :sparkles: Diseño del proyecto
 
-El diseño principal nos fue entregado por el Product Owner de Adalab a través de **Zeplin**, brindándonos la oportunidad de realizar modificaciones según nuestras necesidades.
+El diseño principal nos fue entregado por el Product Owner a través de **Zeplin**, brindándonos la oportunidad de realizar modificaciones según nuestras necesidades.
 
 En pleno desarrollo del sitio web, el Product Owner autorizó los cambios que propusimos. Esto ha permitido que el diseño experimentara una metamorfosis mágica con la incorporación de tonos granates, lilas y morados del fondo y los botones. También se ha cambiado por ejemplo, el icono a un gatito (fiel compañero de las brujas), el cual nos redirige a la página de inicio.
 
